@@ -1,0 +1,9 @@
+{
+  "name": "Simple Proxy",
+  "description": "Simple proxy is a easy to use proxy for download some file.",
+  "keywords": ["productivity", "proxy", "express"],
+  "website": "https://github.com/bestony/simple-proxy",
+  "repository": "https://github.com/bestony/simple-proxy",
+  "logo": "https://postimg.aliavv.com/mbp/en41j.png",
+  "success_url": "/"
+}
