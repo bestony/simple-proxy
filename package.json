@@ -1,0 +1,16 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "a Simple Proxy can help u donwload file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["proxy","express"],
+  "author": "Bestony <best.tony@foxmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.1.4"
+  }
+}
